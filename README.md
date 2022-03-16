@@ -1,2 +1,2 @@
 # Hello-world-
-First GutHub Project
+First GitHub Project
